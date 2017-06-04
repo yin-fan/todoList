@@ -1,6 +1,7 @@
 # todolist
 
-> A Vue.js project
+> vue2.X + vue-router + koa2 + mysql + sequelize + jwt = todoList
+> 功能包括：登陆，注册，一个包括增删改查的list
 
 ## Build Setup
 
@@ -25,6 +26,8 @@ npm run e2e
 
 # run all tests
 npm test
-```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+#run server at localhost:9527
+```
+## 引用
+[全栈开发实战：用Vue2+Koa1开发完整的前后端项目（更新Koa2）](https://molunerfinn.com/Vue+Koa/)
